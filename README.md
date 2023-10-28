@@ -12,7 +12,7 @@
 
 <br>
 
-![drag](https://github.com/RenanBorba/drag-n-drop/assets/48495838/d5c9b964-c049-4c44-a022-787c6578a44d)
+![home](https://github.com/RenanBorba/drag-n-drop/assets/48495838/6c71f630-09a6-4e87-bc22-f85a4359ff87)
 
 </div>
 
