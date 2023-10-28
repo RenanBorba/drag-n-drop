@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação desenvolvida para portfólio de aplicativo web responsivo, voltada para Armazenamento de Imagem (Drag and Drop), semelhante com as aplicações famosas como Imgur, Giphy, Flickr, entre outras.
+Aplicação desenvolvida para portfólio de aplicativo web responsivo, voltada para Armazenamento de Imagem (Drag and Drop), semelhante com as aplicações famosas como Imgur, Giphy, Flickr, entre outras. 📁🤏
 
 <br><br>
 
